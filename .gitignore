@@ -1,6 +1,5 @@
 .DS_Store
 node_modules/
-PIG/bundles/
 npm-debug.log
 
 // vim .swp
