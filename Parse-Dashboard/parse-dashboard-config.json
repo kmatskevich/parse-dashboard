@@ -1,10 +1,14 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
-    "iconName": ""
-  }],
-  "iconsFolder": "icons"
+      "serverURL": "https://frozen-everglades-17784.herokuapp.com/parse", 
+      "appId": "fGVA2UmBX9wZwmh0yDA9X98RdgqmydZim8ypkgAz",
+      "masterKey": "xFuLlBFcbOPCKGHuYhiEIBZF3uZ0BG9MBVsBZen8",
+      "appName": "frozen-everglades-17784"
+    }],
+    "users": [
+    {
+      "user":"iShmidt",
+      "pass":"Rjhhtkzwbz1"
+    }
+  ]
 }
